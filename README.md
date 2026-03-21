@@ -79,6 +79,7 @@ Analista de sistemas há 28 anos, Sr em Tecnologias voltadas para MAINFRAME.
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![COBOL](https://img.shields.io/badge/COBOL-000?style=for-the-badge&logo=cobol&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![CICS](https://img.shields.io/badge/CICS-000?style=for-the-badge&logo=ibm&logoColor=white)
 ![DB2](https://img.shields.io/badge/DB2-000?style=for-the-badge&logo=ibm&logoColor=white)
 
