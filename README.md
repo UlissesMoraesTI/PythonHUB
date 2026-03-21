@@ -3,7 +3,7 @@ Projeto Back-End Python
 
 <h1>   
      <img align="center" width="40px">
-    <span> Python BackEnd Developer</span>
+    <span> Python Back-End Developer</span>
 </h1>
 
 ## Ferramentas
