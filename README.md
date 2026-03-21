@@ -78,6 +78,9 @@ Analista de sistemas há 28 anos, Sr em Tecnologias voltadas para MAINFRAME.
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-000?style=for-the-badge&logo=cobol&logoColor=white)
+![CICS](https://img.shields.io/badge/CICS-000?style=for-the-badge&logo=ibm&logoColor=white)
+![DB2](https://img.shields.io/badge/DB2-000?style=for-the-badge&logo=ibm&logoColor=white)
 
 ## Busco conhecimentos em:
 
