@@ -1,8 +1,6 @@
 # Python - Projeto Calculadora IMC
 Projeto Back-End Python
 
-![image](https://github.com/user-attachments/assets/7ec02ba2-3ad1-474b-b980-a9e221748117)
-
 <h1>   
      <img align="center" width="40px">
     <span> Python BackEnd Developer</span>
